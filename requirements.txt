@@ -1,0 +1,9 @@
+# For demo.py, local_demo.py and the tests. deploy.sh pins the same versions for the Lambda package.
+pydantic-ai-slim[bedrock]==2.68.0
+pydantic-ai-harness[aws-lambda]==0.68.0
+aws-durable-execution-sdk-python==3.0.1
+aws-durable-execution-sdk-python-otel==2.0.0
+aws-durable-execution-sdk-python-testing==1.4.0
+logfire==5.4.0
+opentelemetry-instrumentation-botocore
+pytest
