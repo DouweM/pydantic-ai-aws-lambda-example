@@ -16,7 +16,7 @@ show what durable execution gives an agent:
   execution suspends on a Lambda callback at no compute cost, and continues where it left off when
   someone runs `demo.py approve` (or `--deny`).
 
-Built with Thomas Gaigher (AWS Lambda durable functions team).
+Built with Thomas Gaigher ([@yaythomas](https://github.com/yaythomas), AWS Lambda durable functions team).
 
 ## How it works
 
