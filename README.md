@@ -1,5 +1,7 @@
 # Durable Pydantic AI agent on AWS Lambda
 
+> Watch the live demo explaining this repo's code at [pydantic.dev/events/make-ai-agents-durable-aws-lambda](https://pydantic.dev/events/make-ai-agents-durable-aws-lambda).
+
 A shop support agent, built with [Pydantic AI](https://pydantic.dev/docs/ai/), that runs on
 [AWS Lambda durable functions](https://docs.aws.amazon.com/lambda/latest/dg/durable-functions.html)
 through the `AWSLambdaDurability` capability from
